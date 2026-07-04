@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "Vivestera",
-      "lastAccessed": 1778412081775,
+      "lastAccessed": 1783183424391,
       "markers": [
         {
           "id": "ID_18aa1a381ab8",
@@ -129,14 +129,12 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "02_World_Amanac/Atlas/4_Vivestera/Vivestera.md"
-      ]
+      "files": []
     },
     {
       "id": "Aridonia",
       "locked": false,
-      "lastAccessed": 1778412081775,
+      "lastAccessed": 1783193948853,
       "markers": [
         {
           "id": "ID_dacaea7b3b59",
@@ -213,14 +211,17 @@
           "id": "ID_fbe849099929",
           "type": "default",
           "loc": [
-            753.6874694824219,
-            287.32501220703125
+            751.1000061035156,
+            280.70001220703125
           ],
           "link": "Ruins of Prauka",
           "layer": "%5B%5BAridonia.jpg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.13706055283546448,
+            -0.4889973998069763
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -515,10 +516,29 @@
           "id": "ID_894b3a0b7908",
           "type": "default",
           "loc": [
-            1122.7874336242676,
-            398.2910308255009
+            1127.3999938964844,
+            396.1000061035156
           ],
           "link": "village of selene",
+          "layer": "%5B%5BAridonia.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.19340820610523224,
+            -0.733984371026357
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4869abeae8d9",
+          "type": "default",
+          "loc": [
+            934.9875526428223,
+            404.8499450683594
+          ],
           "layer": "%5B%5BAridonia.jpg%5D%5D",
           "mutable": true,
           "command": false,

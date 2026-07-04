@@ -29,5 +29,4 @@ They will now see a completely different world a big crack in the world's sky ca
 - [[Bittermarsh]] is now ruled by a tyrant known as Palus Greenskin it has become a nation of only hobgoblins where other races are prohibited and are sold as slaves They are at constant war with  [[City of Fyllo Draya]] who is now ruled by hunter's childhood friend and is a closed nation
 - Fort Rettivis and Fort Vinstri fell and the gates of [[Dwarven Kingdom Of Ayaman]] have been closed 
 - [[Kingdom Of Rust]] has a major slums problems as workers and farmers are treated poorly because king needs to pay off his debt to the Teleportation company...
-- 
 

@@ -58,65 +58,75 @@
           {
             "id": "0ce0316817959855",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_INDEX/Main Party.md",
+                "file": "00_Sessions/Future_Plans/7 th ring magnumopus.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Main Party"
+              "title": "7 th ring magnumopus"
             }
           },
           {
-            "id": "82007637a300d85d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Characters/PC Sheets/Rigel_Corvus_CharacterSheet.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Rigel_Corvus_CharacterSheet"
-            }
-          },
-          {
-            "id": "d4ee68d74524b15d",
+            "id": "0c65d0c749643483",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Characters/PCs/Kael Issac/What Kael Issac Knows.md",
+                "file": "Species/Hellborn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What Kael Issac Knows"
+              "title": "Hellborn"
             }
           },
           {
-            "id": "dac3e8bc3c25be8d",
+            "id": "b8e37e5d1e653353",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species/Goliath.md",
+                "file": "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goliath"
+              "title": "Hunter Moonshine"
+            }
+          },
+          {
+            "id": "78eeba12bb487a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Characters/PCs/Kael Issac/Kael Issac.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kael Issac"
+            }
+          },
+          {
+            "id": "d869a6145556107c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_World_Amanac/History/COMPLETE_TIMELINE(Need's Fixing).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COMPLETE_TIMELINE(Need's Fixing)"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +138,7 @@
       {
         "id": "9939e3f53caf0101",
         "type": "tabs",
-        "dimension": 52.2697795071336,
+        "dimension": 53.56679636835279,
         "children": [
           {
             "id": "35f8fd0ec590996b",
@@ -175,7 +185,7 @@
       {
         "id": "699a31cca925000d",
         "type": "tabs",
-        "dimension": 47.73022049286641,
+        "dimension": 46.43320363164721,
         "children": [
           {
             "id": "ce261f89e40ceaa6",
@@ -193,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 280.5
   },
   "right": {
     "id": "82e39816677d81c5",
@@ -228,12 +238,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Compendium/Items/Weapons/Weapons.md",
+                "file": "Species/Hellborn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Weapons"
+              "title": "Outgoing links from Hellborn"
             }
           },
           {
@@ -284,12 +294,16 @@
               "state": {
                 "calendar": "ID_3a9b393b3adb",
                 "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
+                  "viewing": {
+                    "day": 28,
+                    "month": 5,
+                    "year": 11997
+                  },
+                  "viewState": 0,
                   "displaying": {
                     "day": 27,
-                    "month": 5,
-                    "year": 11987
+                    "month": 0,
+                    "year": 11997
                   },
                   "displayDayNumber": false,
                   "displaySeasonColors": true,
@@ -298,10 +312,11 @@
                   "displayWeather": true,
                   "location": ""
                 },
-                "id": "ID_d94918dba91b"
+                "id": "ID_d94918dba91b",
+                "child": "ID_79f88838eaca"
               },
-              "icon": "lucide-ghost",
-              "title": "CALENDARIUM"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -315,12 +330,31 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
+      },
+      {
+        "id": "560fe8eacdc5d2ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f897c7262afe5891",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_3a9b393b3adb",
+                "id": "ID_79f88838eaca",
+                "parent": "ID_d94918dba91b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,34 +370,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dac3e8bc3c25be8d",
+  "active": "0c65d0c749643483",
   "lastOpenFiles": [
-    "Species/Orc.md",
-    "Species/Human.md",
-    "Species/Hobgoblin.md",
-    "Species/Hellborn.md",
+    "01_Characters/PCs/Casion Wert/Casion Wert.md",
+    "02_World_Amanac/History/COMPLETE_TIMELINE(Need's Fixing).md",
+    "01_Characters/PCs/Kael Issac/Kael Issac.md",
+    "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Kingdoms/Union/Dwarven kingdom of Ayaman/Villages/Carcosa.md",
+    "02_World_Amanac/Atlas/4_Vivestera/Continents/Aridonia/Reference_Material/About Aridonia/Aridonia.md",
+    "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
     "Species/Goliath.md",
-    "Species/Elf.md",
-    "Species/Dwarf.md",
-    "Species/DragonBorn.md",
-    "Species/Catfolk.md",
-    "03_Compendium/Items/Weapons/Weapons.md",
-    "03_Compendium/Items/Magic Items/Master Magic Items.md",
-    "Monsters/bag_man_monster.md",
+    "00_Sessions/Future_Plans/7 th ring magnumopus.md",
+    "00_Sessions/Future_Plans/4th layer.md",
+    "00_Sessions/Future_Plans/5th Layer.md",
+    "00_Sessions/Episodes/Episode - 0.md",
+    "00_Sessions/Act I Dungeon/Layer one.md",
     "Monsters/Masque.md",
-    "Monsters/goblin-monster-sheet.md",
-    "Monsters/crocodile-sheet.md",
-    "Monsters/naga-monster-sheet.md",
-    "Monsters/thunderbird-sheet.md",
-    "Monsters/Xavier.md",
-    "Classes/Alchemist.md",
-    "03_Compendium/Spellbook/Cursed Speech.md",
-    "03_Compendium/Spellbook/Word of Evil.md",
-    "03_Compendium/Spellbook/Word of God.md",
-    "03_Compendium/Spellbook/Suggestion.md",
-    "03_Compendium/Spellbook/Dance of Mermaids.md",
-    "03_Compendium/Spellbook/Command.md",
-    "03_Compendium/Spellbook/Hypnotic Pattern.md",
+    "01_Characters/PCs/Jeff/Jeff.md",
+    "01_Characters/PCs/Rigel Corvus/Rigel Corvus.md",
+    "_INDEX/Main Party.md",
+    "Species/Halfling.md",
+    "00_Sessions/Session_Logs/Layer 7 Ring of Pride.md",
+    "00_Sessions/Session_Logs/3Meanwhile in third layer.md",
+    "00_Sessions/Session_Logs/2Second layer.md",
+    "00_Sessions/Session_Logs/1Starting Sessions.md",
+    "01_Characters/PCs/Casion Wert",
+    "Prompts/Prompt4.md",
+    "01_Characters/PCs/Hunter Moonshine/What Hunter Moonshine Knows.md",
+    "02_World_Amanac/Atlas/4_Vivestera/Vivestera.md",
+    "_INDEX/_Location Index.md",
+    "01_Characters/Relationship Tree.md",
+    "The Party.canvas",
     "02_World_Amanac/History/Timeline.canvas",
     "03_Compendium/Items/Magic Items",
     "update_species.ps1",
@@ -374,8 +410,6 @@
     "flora_cleanup.ps1",
     "templates_cleanup.ps1",
     "monsters_cleanup.ps1",
-    "spells_cleanup.ps1",
-    "The Party.canvas",
     "05_Assets/Images/Characters/Vorth.png",
     "02_World_Amanac/History/Times/Untitled.canvas",
     "01_Characters/NPCs/Factions/Untitled.canvas",
