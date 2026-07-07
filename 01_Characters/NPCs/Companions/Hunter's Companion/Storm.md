@@ -1,21 +1,27 @@
 ## abelites
 - **Shape change:** Metamorphosis/changing form at will
-     1. change into any living or non-living object but only obtain their physical properties. For maximum of 12 hours.
-     2. it will retain its own abelites and magic
+     1. change into any living or non-living utill gets to 1Hp or change back
+     2. but only obtain their physical properties. not magical 
+     3. it will retain its own abelites and magic
 - **Weather forecast:**  manipulating the weather
-    1. basic weather manipulation
+    1. basic weather manipulation of its current location 
     2. it will take extra 20min if the called weather is unNatural to the environment
-- **Bond:**  at the binging of every day (12:00am) i give him one of my magic if i fail to do so the ritual the spell from previous day will refresh/continue 
-    1. the specs of the spell are the same
-    2. give it a fixed number of times it can use the spell
-    3. Or it will take mana from a willing to cast the spell
-    4. or V can role a d4 to decide how many time it can use the magic
-    - [x] **(current spell)**
+    3. their is a chance that it may not be able to control it after summon 
+- **Bond:** tack one of my spells to use it
+    1. at the binging of every day (12:00am) i give him one of my magic
+    2. if i fail to do so the ritual the spell from previous day will refresh/continue 
+    3. the rules of the spell are the same
+    4. give it a fixed number of times it can use the spell
+    5. [ ] it will take mana from a willing to cast the spell
+    6. [ ] or V can role a d4 to decide how many time it can use the magic
+    
+    - [ ] **(current spell name)**
 
 ## traits
-- when ever it gets to 1 Hp it will magically return to me/pocket dimension
 - night vision
+- always recognize me 
 - minor heal 10 Hp same creature cant be healed twice a day
+- when ever it get to 1 Hp it will magically return to me/pocket dimension
 
 ## Back story
 I often took my mom’s instrument and used to go out in the forest alone. i used to play the tunes i herd from my mother. when ever i played the melody's in the forest the wiled animals birds and the magical beast often came and listened to my music from afar. i had seen many different beasts in the forest. everyone looked like they genuinely enjoyed my melody’s but their was one magical beast a majestic parrot, whom i always spotted listening from somewhere he had became my loyal fan. he never missed a single time  i played no matter my location. sometimes i go deeper in the forest, near the ocean or just near the edge of the forest he manages to find my voice every time and sits to listen to my music.
