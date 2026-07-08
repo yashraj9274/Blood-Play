@@ -20,8 +20,8 @@
 20. [ ]  Added description for spell **message** -> [[Hunter Moonshine#📜 Spells|open spells]] 
 21. [ ]  Added spell **fear me** -> [[Hunter Moonshine#Future Spells|open spells]]  
 22. [ ]  Added spell **heartBeat** -> [[Hunter Moonshine#Future Spells|open spells]] 
-23. [ ]  Added  spell **Enchant wepons** -> [[Hunter Moonshine#Future Spells|open spells]] 
-24. [ ]  Added spell **dancing clover** -> [[Hunter Moonshine#Future Spells|open spells]] 
-25. [ ]  Added spell **dancing Black cat** -> [[Hunter Moonshine#Future Spells|open spells]] 
-26. [ ]  Added spelll **all future** spells -> [[Hunter Moonshine#Future Spells|open spells]]  
+23. [ ]  Added  description for idetity **age hight** -> [[Hunter Moonshine#👤 Identity|open identity]]
+24. [ ]  updated and Added **equipment and inventory**  -> [[Hunter Moonshine#Iventory|open inventory ]]
+25. [ ]  Added description for  all **future** spells -> [[Hunter Moonshine#Future Spells|open spells]]  
+26. [ ]  Added few **future** spells -> [[Hunter Moonshine#Future Spells|open spells]]  
 27. [x]  Added a .css snippet idk if it will happen 4 everyone or not but i have feezed the table head it changed its color too
