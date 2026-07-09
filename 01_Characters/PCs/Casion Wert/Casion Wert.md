@@ -16,7 +16,7 @@ PlayerCover:
 | :---: | :---------: |
 |  30   |      6      |
 
-| Attribute Points | 00  |
+| Attribute Points | 0   |
 | ---------------- | --- |
 
 **Class Level** = floor(Level / 5)

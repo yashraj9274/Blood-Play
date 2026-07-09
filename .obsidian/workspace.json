@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "82e39816677d81c5",
@@ -272,8 +271,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -305,12 +304,22 @@
                 "id": "ID_d94918dba91b",
                 "child": "ID_79f88838eaca"
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-ghost",
+              "title": "CALENDARIUM"
             }
           },
           {
             "id": "e27f0c0bc2d9d38d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "b217456109c1f425",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -357,8 +366,8 @@
       "bases:Create new base": false,
       "graph:Open graph view": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "78eeba12bb487a5c",
