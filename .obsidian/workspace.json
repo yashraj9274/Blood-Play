@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Compendium/Spellbook/All Spells/Alarm.md",
+                "file": "01_Characters/PCs/Casion Wert/Casion Wert History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alarm"
+              "title": "Casion Wert History"
             }
           }
         ]
@@ -188,15 +188,21 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "8f4a8c4f03fcacef",
   "lastOpenFiles": [
-    "03_Compendium/Spellbook/All Spells/Aid.md",
+    "01_Characters/PCs/Casion Wert/Casion Backstory Final (DLC).md",
     "01_Characters/PCs/Casion Wert/Casion Wert.md",
-    "01_Characters/PCs/Flint Lockwood/Flint Lockwood.md",
     "01_Characters/PCs/Casion Wert/Casion Diary Entries.md",
+    "01_Characters/PCs/Casion Wert/Casion Backstory (draft1).md",
+    "01_Characters/PCs/Casion Wert/Casion Wert History.md",
+    "01_Characters/PCs/Casion Wert/Casion Wert History.md",
+    "03_Compendium/Spellbook/All Spells/Alarm.md",
+    "03_Compendium/Spellbook/All Spells/Aid.md",
+    "01_Characters/PCs/Flint Lockwood/Flint Lockwood.md",
     "02_World_Amanac/Atlas/3_Aethra/Aethra.md",
     "02_World_Amanac/Atlas/2_Nirvana/Nirvana.md",
     "02_World_Amanac/Atlas/1_Zenith/Zenith.md",
@@ -208,7 +214,6 @@
     "02_World_Amanac/History/Timeline.canvas",
     "02_World_Amanac/History/History Mindmap.md",
     "02_World_Amanac/Magic_&_Religion/VIVESTERA_Religious_Framework.md",
-    "01_Characters/PCs/Casion Wert/Casion Backstory Final (DLC).md",
     "Reference_Material/Claude Prompt.md",
     "Untitled",
     "Reference_Material/_Usefull Things.md",
@@ -217,10 +222,6 @@
     "TAGS/TAGS.md",
     "Source materials/HOW IS UTOPIA WRITTEN.md",
     "MAIN/Game Mechanics.md",
-    "MAIN/THE PLAYERS.md",
-    "MAIN/WHAT IS RENDITION.md",
-    "MAIN/Spell Maker Guide.md",
-    "Indexes/Table Of Content.md",
     "03_Compendium/Spellbook/All Spells/flora_cleanup.ps1",
     "05_Assets/Images/Spells/ChainLightning.png",
     "Rules",
