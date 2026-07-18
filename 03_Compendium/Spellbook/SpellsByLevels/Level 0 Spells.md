@@ -8,6 +8,3 @@ WHERE SpellLevel = 0
 Sort SpellLevel ASC
 
 ```
-sort file.name ASC
-
-WHERE contains(file.tags, "#Bard")
