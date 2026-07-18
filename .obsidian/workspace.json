@@ -178,15 +178,17 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "dd5ee6710a0abdda",
   "lastOpenFiles": [
+    "01_Characters/PCs/Casion Wert/Casion Wert History.md",
+    "01_Characters/PCs/Casion Wert/Casion Wert.md",
     "01_Characters/PCs/Kraven Goroth/Kraven Goroth.md",
     "01_Characters/PCs/Kraven Goroth/Kraven Goroth History.md",
     "01_Characters/PCs/Kraven Goroth",
-    "01_Characters/PCs/Casion Wert/Casion Wert History.md",
     "03_Compendium/Spellbook/All Spells/flora_cleanup.ps1",
     "03_Compendium/Spellbook/All Spells/Zone_of_Truth.md",
     "03_Compendium/Spellbook/All Spells/Word of God.md",
@@ -210,7 +212,6 @@
     "03_Compendium/Spellbook/All Spells/Planar_Binding.md",
     "03_Compendium/Spellbook/All Spells/Phantasmal_Killer.md",
     "03_Compendium/Spellbook/All Spells/Phantasmal_Force.md",
-    "03_Compendium/Spellbook/All Spells/Omniscience.md",
     "Rules",
     "03_Compendium/Main"
   ]
