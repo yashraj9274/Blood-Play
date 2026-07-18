@@ -137,28 +137,31 @@ Fighter, Rogue, Barbarian, Ranger, Paladin, Bard, Sorcerer, Wizard, Cleric, Monk
 **Step 2: Subtract DMGA from Total Resistance**
 
 Total Resistance(TR) = Resistance Number (RN) +ARN (Armor Resistance Number)
+DMG=DMGA-TR
+
+**Step 3: Subtract the DMG from ward health**
 
 DMGA-TR will be the dmg taken by the player or the enemy 
 this dmg will reduce their WHP(if its a simple attack like blunt or slashing but if its a piercing attack it will deal dmg to CHP)
 
-once WHP is 0 CHP will start to take hits
+once WHP is 0, CHP will start to take hits
 ### **Damage Types Table**(work in progress)
 
-| Type          | Effect | Notes |
-| ------------- | ------ | ----- |
-| **Blunt**     |        |       |
-| **Piercing**  |        |       |
-| **Slashing**  |        |       |
-| **Acid**      |        |       |
-| **Fire**      |        |       |
-| **Cold**      |        |       |
-| **Lightning** |        |       |
-| **Poison**    |        |       |
-| **Psionic**   |        |       |
-| **Necrotic**  |        |       |
-| **Radiant**   |        |       |
-| **Force**     |        |       |
-| ****          |        |       |
+| Type          | Effect | Notes                                                                                                        |
+| ------------- | ------ | ------------------------------------------------------------------------------------------------------------ |
+| **Blunt**     | WHP    | can knock prone on nat 20                                                                                    |
+| **Piercing**  | CHP    | Half Dmg will hit WHP and Half will hit CHP if rolls higher than 15 all dmg will be taken by CHP on a nat 20 |
+| **Slashing**  | WHP    | Applies bleeding status on rolls above 15 (requires a action to stop bleeding)                               |
+| **Acid**      |        |                                                                                                              |
+| **Fire**      |        |                                                                                                              |
+| **Cold**      |        |                                                                                                              |
+| **Lightning** |        |                                                                                                              |
+| **Poison**    |        |                                                                                                              |
+| **Psionic**   |        |                                                                                                              |
+| **Necrotic**  |        |                                                                                                              |
+| **Radiant**   |        |                                                                                                              |
+| **Force**     |        |                                                                                                              |
+| ****          |        |                                                                                                              |
 
 ---
 
