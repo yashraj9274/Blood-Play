@@ -3,7 +3,7 @@
     {
       "id": "Aridonia",
       "locked": false,
-      "lastAccessed": 1783193948853,
+      "lastAccessed": 1784018794966,
       "markers": [
         {
           "id": "ID_dacaea7b3b59",
@@ -426,7 +426,7 @@
     },
     {
       "id": "Vivestera",
-      "lastAccessed": 1783699437756,
+      "lastAccessed": 1784018798291,
       "markers": [
         {
           "id": "ID_18aa1a381ab8",
@@ -586,7 +586,47 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "id": "Vivestera",
+    "image": "[[Vivestera.jpg]]",
+    "layers": [
+      "[[Vivestera.jpg]]"
+    ],
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        1536,
+        2048
+      ]
+    ],
+    "lat": 768,
+    "long": 1024,
+    "minZoom": -1,
+    "maxZoom": 2,
+    "defaultZoom": -1,
+    "zoomDelta": 0.5,
+    "unit": "KM",
+    "scale": 6.225,
+    "osmLayer": false,
+    "recenter": false,
+    "darkmode": false,
+    "imageOverlay": [
+      [
+        "[[Aridonia.jpg|Aridonia]]",
+        [
+          776,
+          1050
+        ],
+        [
+          84,
+          1972
+        ]
+      ]
+    ]
+  },
   "enableDraw": true,
   "defaultUnitType": "metric",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
