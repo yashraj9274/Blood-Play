@@ -727,6 +727,20 @@
       "resultText": "4d10\n[8, 9, 8, 10]",
       "timestamp": 1783706421044,
       "id": "32j0evPeB5qq"
+    },
+    {
+      "result": "43",
+      "original": "7d8+12",
+      "resultText": "7d8+12\n[7, 3, 1, 4, 6, 8, 2]+12",
+      "timestamp": 1783845148686,
+      "id": "Au1WwlbhrAr0"
+    },
+    {
+      "result": "39",
+      "original": "7d8+12",
+      "resultText": "7d8+12\n[5, 3, 2, 7, 4, 5, 1]+12",
+      "timestamp": 1783857680073,
+      "id": "1NWU_MxTzhyP"
     }
   ]
 }

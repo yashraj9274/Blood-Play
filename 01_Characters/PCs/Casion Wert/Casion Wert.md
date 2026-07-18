@@ -29,7 +29,7 @@ PlayerCover:
 | Stat             | Score | Modifier |
 | :--------------- | :---: | :------: |
 | **Strength**     |   5   |    1     |
-| **Resistance**   |  15   |    3     |
+| **Resistance**   |  10   |    2     |
 | **Intelligence** |  10   |    2     |
 | **Health Score** |  10   |    2     |
 | **Mana Score**   |   5   |    1     |
@@ -56,11 +56,11 @@ PlayerCover:
 
 | Sub-Stat         | Score | Sub-Stat         | Score |
 | :--------------- | :---: | :--------------- | :---: |
-| **Agility**      |   3   | **Intimidation** |       |
+| **Agility**      |   3   | **Intimidation** |   3   |
 | **Aim**          |   5   | **Perception**   |   2   |
 | **Coordination** |   3   | **Reflex**       |   4   |
 | **Deception**    |  -2   | **Seduction**    |  -5   |
-| **Dexterity**    |   5   | **Stealth**      |       |
+| **Dexterity**    |   5   | **Stealth**      |   2   |
 | **Ingenuity**    |   2   | **Will**         |   2   |
 | **Insight**      |   3   |                  |       |
 
@@ -68,14 +68,14 @@ PlayerCover:
 
 ## 👤 Identity
 
-| Category            | Value       |
-| :------------------ | :---------- |
-| **Race**            | Cimic       |
-| **Primary Class**   | BloodHunter |
-| **Secondary Class** |             |
-| **Deity**           |             |
-| **Origin**          | Slave Born  |
-| **Background**      | Hunter      |
+| Category            | Value        |
+| :------------------ | :----------- |
+| **Race**            | Cimic hybrid |
+| **Primary Class**   | BloodHunter  |
+| **Secondary Class** |              |
+| **Deity**           |              |
+| **Origin**          | Slave Born   |
+| **Background**      | Hunter       |
 
 ---
 
@@ -112,12 +112,14 @@ You gain 1 Blood Tally whenever:
 - **Darkvision.** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
 - **Animal Enhancements.** Your body has been altered with animal characteristics. You choose one animal enhancement now and one at 50th level.
-	- **Manta Glide (1st level).** You have ray-like fins that you use as wings to slow your fall or allow you to glide. When you fall and are not incapacitated, you can subtract up to 100 feet from your fall when calculating your fall damage and can move horizontally 2 feet for every 1 foot you fall.
+	- **Manta Glide .** You have ray-like fins that you use as wings to slow your fall or allow you to glide. When you fall and are not incapacitated, you can subtract up to 100 feet from your fall when calculating your fall damage and can move horizontally 2 feet for every 1 foot you fall.
+	- **Speak With Animals .** You can communicate simple idea to animals n understantd simple gestures performed by them. 
 
 *  **Blood sight** : Sense the location of any creature within 30 feet missing HP, through walls or invisibility. You always know which nearby creature is closest to death — useful for calling your shot.
 
 ### Personal Traits
 * **Physical traits:** 
+5.9ft 
 * **Personality:** 
 ---
 
@@ -148,6 +150,20 @@ You gain 1 Blood Tally whenever:
 
 
 ### Gear
+Musket
+Compound bow
+Handaxe
+Hunting Knife
+Silvered Dagger
+Musket Bullets
+Arrow 
+Special arrows
+Gunpowder Horn
+Powder Charges
+Studded Leather Armor
+Leather Gloves
+Hooded Cloak
+Boots
 
 ### Armor
 | Armor Res (ARN) | Armor HP (AHP) | Current AHP |
@@ -168,11 +184,125 @@ You gain 1 Blood Tally whenever:
 
 ## 📖 Backstory & Description
 ## Glance
+Sold to a pack of hunters at five. 
+Loved animals but had to kill them because he's a hunter. 
+Met the love of his life while hunting. 
+Stopped killing animals, started killing people. 
+Came back from job one day to find dead wife. 
+Daughter saved by wolf. 
+He sad now looking for cure while bounty hunting.
 
 ## Depth
+i ll do it later
+
 
 ___
 ## Inventory
-
-
-
+Cloth Rags
+Needles
+Explorer's Pack
+Hempen Rope (50 ft)
+Silk Rope (50 ft)
+Grappling Hook
+Chain (10 ft)
+Manacles
+Iron Clips 
+Crowbar
+Hammer
+Pitons
+Iron Spikes
+Hunting Traps
+Caltrops
+Ball Bearings (1,000)
+Block and Tackle
+Climber's Kit
+Mess Kit
+Bedroll
+Waterskin
+Rations ×10
+Tinderbox
+Lantern (Bullseye)
+Hooded Lantern
+Candles ×10
+Hooded Lamp Shutter
+Chalk ×10
+Soap
+Signal Whistle
+Bell
+Mirror (Steel)
+Magnifying Glass
+Spyglass
+Compass
+Hourglass
+Fishing Tackle
+Healer's Kit
+Herbalism Kit
+Carpenter's Tools
+Tinker's Tools
+Thieves' Tools
+Shovel
+Pick
+Portable ladder
+Bucket
+Backpack
+Belt Pouches
+Sack
+Scrolls
+Maps
+Vials
+Bottles
+Flask of Oil
+Animal Feed
+Bag of Salt
+Twine (100 ft)
+Wire
+Net
+Snare Wire
+Pole (10 ft)
+Hide Scraper
+Skinning knife
+Acid (Vial)
+Alchemist's Fire
+Antitoxin
+Holy Water
+Basic Poison 
+Perfume
+Ink and Pen
+Parchments
+Papers
+Sealing Wax
+Wedding Ring on Necklace
+Wooden Animal Figurines
+Pressed Flowers
+Smooth Stones
+Feathers
+Animal Teeth
+Antlers
+Dried Herbs
+Small Journal
+Sketchbook
+Charcoal Sticks
+Children's Trinkets
+Lucky Coin
+Bundle of Rabbit's Feet
+Small Bone Dice
+Empty Shell Casings
+Wolf Fur Cloak Clasp
+Bundle of Animal Calls
+Bone Whistle
+Small Pouch of Birdseed
+Dried Meat Treats
+Leather Cord
+Sewing Kit
+Thread
+Beeswax
+Resin
+Pinecones
+Mushrooms
+Interesting Sticks
+Collection of Pretty Rocks
+Bandages
+Alcohal
+Bells
+Hooks or Pins
+Tarp
