@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Paladin.md",
+                "file": "01_Characters/PCs/Casion Wert/Casion Wert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paladin"
+              "title": "Casion Wert"
             }
           }
         ]
@@ -184,32 +184,32 @@
   },
   "active": "dd5ee6710a0abdda",
   "lastOpenFiles": [
+    "01_Characters/PCs/Flint Lockwood/Flint Lockwood.md",
+    "01_Characters/PCs/Casion Wert/Casion Wert.md",
+    "01_Characters/PCs/Green Skin/Strarrul Greenskin.md",
+    "01_Characters/PCs/Kaien_Kagari/Kaien Kagari.md",
+    "01_Characters/PCs/Kirmanda/Kirmanda.md",
+    "_INDEX/_Location Index.md",
+    "02_World_Amanac/Atlas/3_Aethra/Aethra.md",
+    "02_World_Amanac/Atlas/2_Nirvana/Nirvana.md",
+    "02_World_Amanac/Atlas/1_Zenith/Zenith.md",
+    "02_World_Amanac/Atlas/4_Vivestera/Vivestera.md",
+    "Classes/Bard.md",
+    "Prompts/Prompt4.md",
+    "03_Compendium/Spellbook/All Spells/Untitled.md",
+    "03_Compendium/Spellbook/SpellsByLevels/Level 0 Spells.md",
+    "01_Characters/PCs/Hunter Moonshine/Hunter Moonshine.md",
+    "Classes/Paladin.md",
     "Classes/Wizard.md",
     "Classes/Fighter.md",
     "Classes/Barbarian.md",
     "Classes/Necromancer.md",
-    "Classes/Bard.md",
     "Classes/Warlock.md",
     "Classes/Summoner.md",
     "Classes/Spirit Medium.md",
     "Classes/Sorcerer.md",
     "Classes/Rogue.md",
-    "Classes/Paladin.md",
     "Classes/Ranger.md",
-    "Classes/Monk.md",
-    "Classes/Druid.md",
-    "Classes/Cleric.md",
-    "Classes/Beast Master.md",
-    "Classes/Artificer.md",
-    "Classes/Alchemist.md",
-    "Classes/Runesmith.md",
-    "Classes/Witch.md",
-    "03_Compendium/Spellbook/SpellsByLevels/Level 0 Spells.md",
-    "Rules/Aim.md",
-    "Rules/Ailments.md",
-    "Setting Of The Campaign.md",
-    "Rules/Travel.md",
-    "Rules/Stealth.md",
     "Rules",
     "03_Compendium/Main"
   ]
